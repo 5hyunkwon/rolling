@@ -1,0 +1,15 @@
+# project files
+.idea
+*.iws
+*.iml
+*.ipr
+
+# macOS template
+*.DS_Store
+
+# ipynb checkpoints
+.ipynb_checkpoints
+
+# pyc
+__pycache__/
+*.py[cod]
